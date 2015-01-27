@@ -1,0 +1,14 @@
+D:\Code\vs2013\David_MyfirstAPI_ProductsApp\David_MyfirstAPI_ProductsApp\bin\David_MyfirstAPI_ProductsApp.dll.config
+D:\Code\vs2013\David_MyfirstAPI_ProductsApp\David_MyfirstAPI_ProductsApp\bin\David_MyfirstAPI_ProductsApp.dll
+D:\Code\vs2013\David_MyfirstAPI_ProductsApp\David_MyfirstAPI_ProductsApp\bin\David_MyfirstAPI_ProductsApp.pdb
+D:\Code\vs2013\David_MyfirstAPI_ProductsApp\David_MyfirstAPI_ProductsApp\bin\Newtonsoft.Json.dll
+D:\Code\vs2013\David_MyfirstAPI_ProductsApp\David_MyfirstAPI_ProductsApp\bin\System.Net.Http.Formatting.dll
+D:\Code\vs2013\David_MyfirstAPI_ProductsApp\David_MyfirstAPI_ProductsApp\bin\System.Web.Http.dll
+D:\Code\vs2013\David_MyfirstAPI_ProductsApp\David_MyfirstAPI_ProductsApp\bin\System.Web.Http.WebHost.dll
+D:\Code\vs2013\David_MyfirstAPI_ProductsApp\David_MyfirstAPI_ProductsApp\bin\Newtonsoft.Json.xml
+D:\Code\vs2013\David_MyfirstAPI_ProductsApp\David_MyfirstAPI_ProductsApp\bin\System.Net.Http.Formatting.xml
+D:\Code\vs2013\David_MyfirstAPI_ProductsApp\David_MyfirstAPI_ProductsApp\bin\System.Web.Http.xml
+D:\Code\vs2013\David_MyfirstAPI_ProductsApp\David_MyfirstAPI_ProductsApp\bin\System.Web.Http.WebHost.xml
+D:\Code\vs2013\David_MyfirstAPI_ProductsApp\David_MyfirstAPI_ProductsApp\obj\Debug\David_MyfirstAPI_ProductsApp.csprojResolveAssemblyReference.cache
+D:\Code\vs2013\David_MyfirstAPI_ProductsApp\David_MyfirstAPI_ProductsApp\obj\Debug\David_MyfirstAPI_ProductsApp.dll
+D:\Code\vs2013\David_MyfirstAPI_ProductsApp\David_MyfirstAPI_ProductsApp\obj\Debug\David_MyfirstAPI_ProductsApp.pdb
